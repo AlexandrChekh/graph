@@ -1,0 +1,14 @@
+canvas {
+    margin: 10px;
+    background: rgb(162, 198, 233);
+  }
+  .table{
+      display: flex;
+  }
+ 
+  input{
+    width: 100px;
+  }
+table button{
+    width: 100%;
+}
