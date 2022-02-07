@@ -369,7 +369,6 @@ tableView3.onActionButton = () => {
   const previous = document
     .querySelector(".canvas")
     .getElementsByTagName("canvas");
-  console.log(previous);
   while (previous.length) {
     previous[0].parentNode.removeChild(previous[0]);
   }
